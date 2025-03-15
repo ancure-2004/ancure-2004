@@ -41,8 +41,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TROCK3338&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TROCK3338&layout=compact&theme=tokyonight)
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ancure-2004&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ancure-2004&layout=compact&theme=tokyonight)
 
 ---
 
