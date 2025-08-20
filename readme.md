@@ -1,7 +1,5 @@
 <div align="center">
 
----
-
 <a href="https://ankurtyagi.vercel.app"><img src="/Screenshot 2025-08-20 161221.png" width="1000"/></a>
 
 ---
