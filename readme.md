@@ -15,7 +15,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
 
-[![Ankur Tyagi profile views](https://u8views.com/api/v1/github/profiles/143336671/views/total-count.svg)](https://u8views.com/github/ancure-2004)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ancure-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ancure-2004" /> </p>
 
 - 👋 Hi, I’m Ankur Tyagi, a passionate developer exploring Full-Stack Development, AI, and Open Source.
 
