@@ -13,7 +13,18 @@
 
 <h1 align="center">Hi 👋, I'm Ankur Tyagi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
+<table align="right">
+  <tr>
+    <td>
+      <img alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     💡 Currently working on <strong>Zephyros</strong>, an AI-powered code editor.
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ancure-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ancure-2004" /> </p>
 
@@ -35,8 +46,10 @@
 <a href="https://auth.geeksforgeeks.org/user/ankur200399a/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankur200399a/profile" height="30" width="50" /></a>
 </p>
 
+<br>
+
 <div align="center">
-  <h3>Languages and Tools:</h3>
+  <h2>Languages and Tools:</h2>
 
   ![React Native](https://skillicons.dev/icons?i=react)
   ![NodeJS](https://skillicons.dev/icons?i=nodejs)
@@ -54,7 +67,7 @@
 
 <br>
 
-<h3 align="center">🌱 Github Status</h3>
+<h2 align="center">🌱 Github Status</h2>
 <br>
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=ancure-2004&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
