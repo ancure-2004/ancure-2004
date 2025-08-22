@@ -1,5 +1,3 @@
-<div align="center">
-
 <a href="https://ankurtyagi.vercel.app">
   <img 
     width="100%"
@@ -11,17 +9,21 @@
 
 </div>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>, I'm Ankur Tyagi</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>, I'm Ankur Tyagi
+<a href="https://ankurtyagi.vercel.app">
+  <img align="center" src="/wired-outline-187-suitcase-morph-open.gif" alt="ankur" height="60" width="60"/>
+</a>
+</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <table align="right">
   <tr>
     <td>
-      <img alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
   <tr>
     <td align="center">
-     💡 Currently working on <strong>Zephyros</strong>, an AI-powered code editor.
+     💡 Currently working on <strong>Zephyros</strong>, an AI code editor.
     </td>
   </tr>
 </table>
@@ -48,6 +50,10 @@
     <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="ankur" height="50" width="50" />
   </a
 </p>
+
+<a href="https://ankurtyagi.vercel.app" target="_blank">
+  <img align="center" src="/wired-outline-187-suitcase-morph-open.gif" alt="Portfolio" width="60" height="60"/>
+</a>
 
 <br>
 
