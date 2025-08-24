@@ -1,7 +1,7 @@
 <a href="https://ankurtyagi.vercel.app">
   <img 
     width="100%"
-    src="/Screenshot 2025-08-20 161221.png"
+    src="/ankur_hero.gif"
   />
 </a>
 
