@@ -12,9 +12,6 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<a href="https://ankurtyagi.vercel.app" target="_blank">
-  <img align="center" src="/wired-outline-187-suitcase-morph-open.gif" alt="Portfolio" width="100" height="100"/>
-</a>
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Heyyyy!+I'm+Ankur+Tyagi+%3C3;Software+Developer+;Welcome+to+my+profile+!">
 </p>
 
