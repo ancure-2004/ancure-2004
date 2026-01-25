@@ -57,7 +57,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
 </a>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ### 💻 Technology Stack
 
