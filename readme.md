@@ -98,12 +98,17 @@
 
 <br>
 
-<h2 align="center">🌱 Github Status</h2>
-<br>
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=ancure-2004&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=ancure-2004&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancure-2004&layout=compact&theme=nord" alt="GitHub Streak Stats"><br/>
+<div align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ancure-2004&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ancure-2004&theme=github_dark&utcOffset=5" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancure-2004&theme=graywhite" alt="GitHub Streak" />
+</p>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
