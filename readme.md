@@ -99,7 +99,6 @@
 <br>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 <div align="center">
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ancure-2004&theme=github_dark" />
@@ -107,7 +106,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancure-2004&theme=graywhite" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancure-2004"/>
 </p>
 </div>
 
