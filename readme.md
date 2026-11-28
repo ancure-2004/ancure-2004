@@ -106,7 +106,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancure-2004"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ancure-2004&theme=graywhite" alt="GitHub Streak" />
 </p>
 </div>
 
